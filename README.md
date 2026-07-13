@@ -1,0 +1,2 @@
+# SeQL
+Leetcode SQL
